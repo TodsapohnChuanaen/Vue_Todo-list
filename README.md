@@ -1,6 +1,8 @@
 # todo-lists
 
-This template should help get you started developing with Vue 3 in Vite.
+It's simple TodoList.
+This project is built with Vue 3, using Tailwind CSS and DaisyUI for styling.
+Using mockAPI to create an API for testing.
 
 ## Recommended IDE Setup
 
@@ -29,10 +31,4 @@ npm run dev
 
 ```sh
 npm run build
-```
-
-### Description
-
-```sh
-This project is built with Vue 3, using Tailwind CSS and DaisyUI for styling.
 ```
