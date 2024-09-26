@@ -1,7 +1,7 @@
 import { defineStore } from 'pinia'
 import axios from 'axios'
 
-const BASE_URL = 'https://66de30f1de4426916ee09a8f.mockapi.io'
+const BASE_URL = import.meta.env.VITE_API
 
 export const useTodoStore = defineStore('todo',{
   state: () => ({
@@ -61,3 +61,4 @@ export const useTodoStore = defineStore('todo',{
     }
   }
 })
+
