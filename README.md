@@ -1,10 +1,10 @@
 # todo-lists
 
 It's simple TodoList.<br />
-This project is built with Vue 3, using Tailwind CSS and DaisyUI for styling.__
-Use Pinia for state management.__
-Use Vue Router for Single Page Applications.__
-Using mockAPI to create an API for testing.__
+This project is built with Vue 3, using Tailwind CSS and DaisyUI for styling.\
+Use Pinia for state management.\
+Use Vue Router for Single Page Applications.\
+Using mockAPI to create an API for testing.
 
 ## Recommended IDE Setup
 
