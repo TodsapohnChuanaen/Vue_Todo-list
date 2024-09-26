@@ -31,7 +31,5 @@ npm run dev
 ```
 ### Video Demo
 
-```sh
 https://github.com/user-attachments/assets/e3683ed0-02b0-4bcb-97af-6e459353ea4c
-```
 
