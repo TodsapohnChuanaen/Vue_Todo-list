@@ -1,8 +1,10 @@
 # todo-lists
 
-It's simple TodoList.
-This project is built with Vue 3, using Tailwind CSS and DaisyUI for styling.
-Using mockAPI to create an API for testing.
+It's simple TodoList.<br />
+This project is built with Vue 3, using Tailwind CSS and DaisyUI for styling.__
+Use Pinia for state management.__
+Use Vue Router for Single Page Applications.__
+Using mockAPI to create an API for testing.__
 
 ## Recommended IDE Setup
 
@@ -17,6 +19,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ```sh
 npm create vue@latest
 npm install
+npm i axios
 npm install -D tailwindcss
 npm i -D daisyui@latest
 ```
