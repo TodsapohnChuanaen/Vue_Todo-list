@@ -13,7 +13,10 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Project Setup
 
 ```sh
+npm create vue@latest
 npm install
+npm install -D tailwindcss
+npm i -D daisyui@latest
 ```
 
 ### Compile and Hot-Reload for Development
@@ -26,4 +29,10 @@ npm run dev
 
 ```sh
 npm run build
+```
+
+### Description
+
+```sh
+This project is built with Vue 3, using Tailwind CSS and DaisyUI for styling.
 ```
