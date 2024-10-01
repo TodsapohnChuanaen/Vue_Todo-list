@@ -20,7 +20,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 npm create vue@latest
 npm install
 npm i axios
-npm install -D tailwindcss
+npm install -D tailwindcss postcss autoprefixer
 npm i -D daisyui@latest
 ```
 
